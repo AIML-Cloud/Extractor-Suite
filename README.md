@@ -18,8 +18,11 @@ Pack of pre-built deep learning models which extract the crucial and relevant in
 ## Overview of ProcessFlow
 ## ![Process Flow](https://github.com/Neerajcerebrum/Extractor-Suite/blob/develop/images/Flow.png) 
 
-## Model Training with 700 images and 100 epochs 
+## Model Training with 125 images and 100 epochs 
 ## ![Training Process](https://github.com/Neerajcerebrum/Extractor-Suite/blob/develop/images/ModelTraining.png) 
 
-## Model Output
-## ![Training Process](https://github.com/Neerajcerebrum/Extractor-Suite/blob/develop/images/ModelOutput.png) 
+## Model Inference
+## ![Training Process](https://github.com/Neerajcerebrum/Extractor-Suite/blob/develop/images/ModelOutput.png)
+Though the dataset was quite small, still model able to learn and predict the entities with decent accuracy scores.
+
+
