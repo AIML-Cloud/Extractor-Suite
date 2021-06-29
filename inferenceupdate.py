@@ -5,7 +5,7 @@ import converter
 ## importing os to access system level modules
 import os 
 ## Change current directory to below defined model path to access all dependencies and files
-Modelpath = '/Volumes/Extreme SSD/teracloud23june/teracloud-ai/DocumentAI/Model0621/PICK-pytorch'
+Modelpath = '/Volumes/Extreme SSD/teracloud23june/teracloud-ai/DocumentAI/Model0621'
 os.chdir(Modelpath)
 path = Modelpath
 parentdir = os.path.abspath(os.path.join(path, os.pardir))
