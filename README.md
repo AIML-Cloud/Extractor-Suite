@@ -25,4 +25,10 @@ Pack of pre-built deep learning models which extract the crucial and relevant in
 ## ![Training Process](https://github.com/Neerajcerebrum/Extractor-Suite/blob/develop/images/ModelOutput.png)
 Though the dataset was quite small, still model able to learn and predict the entities with decent accuracy scores.
 
+## Where it Fits:
+•	AR & AP Services (Financial Services)
+•	Healthcare Industry
+•	Government Sector
+
+
 
