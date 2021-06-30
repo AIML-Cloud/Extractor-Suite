@@ -26,9 +26,9 @@ Pack of pre-built deep learning models which extract the crucial and relevant in
 Though the dataset was quite small, still model able to learn and predict the entities with decent accuracy scores.
 
 ## Where it Fits:
-AR & AP Services (Financial Services)
-Healthcare Industry
-Government Sector
+1) AR & AP Services (Financial Services)
+2) Healthcare Industry
+3) Government Sector
 
 
 
