@@ -5,7 +5,7 @@ Speed up your business processes by automating information extraction with AI. M
 
 Extractor SDK works on form identification, maintain semantic information, noise reduction and much more to eliminate manual and costly data entry process.
 
-
+## ![Table](https://github.com/Neerajcerebrum/Extractor-Suite/blob/develop/images/table.png) 
 Pack of pre-built deep learning models which extract the crucial and relevant information from any type of data on real time basis. The cutting-edge engines uses both text segments and image BB features for learning and maintain semantic relations between embeddings by using advance graph learning approaches.
 
 
@@ -14,6 +14,8 @@ Pack of pre-built deep learning models which extract the crucial and relevant in
 2)	GCNs: Advance graph learning module layer which automatically learn the relations between nodes and uses both text and image features of documents including text, position, layout and image to get an intense semantic representation which is important for extracting the key information without ambiguity. 
 3)	BiLSTM and CRF layer: This layer adds sequence tagging on the union non-local sentence at character-level using BiLSTM and CRF, respectively. In this way, the model transforms key information extraction tasks into a sequence tagging problem by considering the layout information and the global information of the document.
 4)	The first two modules act as encoder which provides enriched embeddings of both text and image features to the last module which act as a decoder which extract the information by converting the task into sequence tagging problem. 
+## Implementation
+## ![imp](https://github.com/Neerajcerebrum/Extractor-Suite/blob/develop/images/procflow.png)
 
 ## Overview of ProcessFlow
 ## ![Process Flow](https://github.com/Neerajcerebrum/Extractor-Suite/blob/develop/images/Flow.png) 
